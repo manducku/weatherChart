@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ReduxSimpleStarter
 
 Interested in learning [Redux](https://www.udemy.com/react-redux/)?
@@ -23,3 +24,7 @@ Click [here](https://github.com/StephenGrider/ReactStarter/releases) then downlo
 	> npm install
 	> npm start
 ```
+=======
+# weatherChart
+React로 구현하는 도시별 기후 검색 웹사이트
+>>>>>>> eaddb697361a022db6ad28b8195508a9604c6cd7
