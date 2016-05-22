@@ -1,0 +1,8 @@
+.input-group{
+   margin: 20px 0px;
+}
+
+th,td {
+    vertical-align: center !important;
+    text-align: center !important;
+}
